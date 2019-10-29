@@ -112,7 +112,6 @@ function mouseDragged() {
 
 function touchStarted(){
 	mousePressed()
-	mouseClicked()
 }
 
 function touchEnded(){
